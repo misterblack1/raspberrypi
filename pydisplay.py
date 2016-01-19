@@ -2,6 +2,7 @@
 # Nov 22 2014
 # Updated: Jan 18 2016
 # Adding living room temp and humidity
+# Uses framebuffer 1
 
 import pygame, sys, os, time, datetime, urllib, csv
 from pygame.locals import *
